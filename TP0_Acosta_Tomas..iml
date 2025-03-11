@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../TP0_Acosta_Tomas/out/production/TP0_Acosta_Tomas/ar/unrn/tp0/anemia" />
+    <output-test url="file://$MODULE_DIR$/../TP0_Acosta_Tomas/out/production/TP0_Acosta_Tomas/test/TP0_Acosta_Tomas." />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../TP0_Acosta_Tomas">
       <sourceFolder url="file://$MODULE_DIR$/../TP0_Acosta_Tomas/src" isTestSource="false" />
